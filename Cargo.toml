@@ -1,0 +1,10 @@
+[package]
+name = "arkanoid-rs"
+version = "0.1.0"
+authors = ["Nahuel Jesús Sacchetti <nahueljsacchetti@gmail.com>"]
+
+[dependencies]
+piston = "*"
+piston2d-graphics = "*"
+pistoncore-glutin_window = "*"
+piston2d-opengl_graphics = "*"
